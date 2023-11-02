@@ -1,6 +1,7 @@
 # README - Estudos em Python
 
-Este README destina-se a documentar meus estudos em Python, abordando vários tópicos essenciais para quem deseja aprender a programar nessa linguagem versátil. Ao longo deste documento, você encontrará uma breve visão geral de cada tópico que estudei.
+TODOS os codigos estao dentro do arquivo .ipynb que pode ser aberto tanto em IDE's como no proprio google Colab(onde foi feito)
+Este README destina-se a documentar meus estudos e ajudar jovens iniciantes na carreira de programação em Python, abordando vários tópicos essenciais para quem deseja aprender a programar nessa linguagem versátil. Ao longo deste documento, você encontrará uma breve visão geral de cada tópico que estudei.
 
 ## Índice
 
@@ -28,8 +29,8 @@ Neste tópico, aprendi como declarar variáveis em Python e como usar o comando 
 
 ```python
 # Exemplo de variáveis e atribuição
-nome = "Alice"
-idade = 30
+nome = "Luis"
+idade = 20
 ```
 
 ## Comandos de Repetição
@@ -48,7 +49,7 @@ Os comandos condicionais `if`, `if-else` e `if-elif-else` permitem tomar decisõ
 
 ```python
 # Exemplo de if-else
-idade = 18
+idade = 20
 if idade >= 18:
     print("Pode votar!")
 else:
@@ -96,7 +97,7 @@ Listas são estruturas de dados que permitem armazenar múltiplos valores em uma
 
 ```python
 # Exemplo de lista
-frutas = ["maçã", "banana", "laranja"]
+frutas = ["morango", "melancia", "laranja"]
 ```
 
 ## Funções com Listas
@@ -115,8 +116,8 @@ Strings são sequências de caracteres e são amplamente usadas em Python. Você
 
 ```python
 # Exemplo de manipulação de strings
-nome = "João"
-sobrenome = "Silva"
+nome = "L"
+sobrenome = "Luis"
 nome_completo = nome + " " + sobrenome
 ```
 
@@ -189,4 +190,4 @@ def selecao_ordenada(lista):
         lista[i], lista[menor_idx] = lista[menor_idx], lista[i]
 ```
 
-Estes são os principais tópicos que estudei em Python. Cada tópico é uma base sólida para construir suas habilidades de programação em Python. Lembre-se de praticar e explorar ainda mais esses conceitos para se tornar um programador Python competente.
+Estes são os principais tópicos que estudei em Python. Cada tópico é uma base sólida para construir suas habilidades de programação em Python.
